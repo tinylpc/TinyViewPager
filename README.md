@@ -1,9 +1,11 @@
 # TinyViewPager
 React Native，上下左右无限循环ViewPAger
 
-# 引用
+# 使用方式
 ```
-npm install tinyviewpager --save
+1、 npm install tinyviewpager --save
+2、 js文件中导入 
+    import ViewPager from 'tinyviewpager';
 ```
 
 # 说明
