@@ -1,6 +1,6 @@
 {
   "name": "tinyviewpager",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "上下左右无限循环viewpager",
   "main": "index.js",
   "scripts": {
