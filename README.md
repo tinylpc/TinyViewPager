@@ -8,6 +8,9 @@ React Native，上下左右无限循环ViewPAger
     import ViewPager from 'tinyviewpager';
 ```
 
+# Example
+https://github.com/tinylpc/ReactNativeDemo/blob/master/HomeView.js
+
 # 说明
 
 参考的https://github.com/race604/react-native-viewpager 此项目
